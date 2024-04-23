@@ -1,4 +1,5 @@
 ALTSCHOOL SECOND SEMESTER PROJECT
+
 This is a simple web app to fetch the github repository of any user using GitHub API with pagination enabled
 
 I utilized ReactQuery to integrate GitHub API, Vite and tailwind CSS for layout and design. I also used ReactRouter6 to show repo pages.
